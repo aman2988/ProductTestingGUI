@@ -1,0 +1,7 @@
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\GUI.exe
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\GUI.dll
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\GUI.deps.json
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\GUI.runtimeconfig.json
+C:\Users\khann\source\repos\Michael\GUI\GUI\obj\Release\net6.0\PubTmp\Out\GUI.pdb
