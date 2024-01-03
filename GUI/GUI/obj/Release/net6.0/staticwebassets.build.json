@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wspe1IQN+Zh9bDZdzIJOCgsz05YM7Q6FXm3cOiViqUE=",
+  "Hash": "xTagHYLjjgfkLpAfw6D9IPmrVMw61PiFECn4KMkmhrE=",
   "Source": "GUI",
   "BasePath": "_content/GUI",
   "Mode": "Default",
@@ -16932,6 +16932,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\full.jpg"
     },
     {
+      "Identity": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\borderless.scss",
+      "SourceId": "GUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\",
+      "BasePath": "_content/GUI",
+      "RelativePath": "css/borderless.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\borderless.scss"
+    },
+    {
       "Identity": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\error.css",
       "SourceId": "GUI",
       "SourceType": "Discovered",
@@ -17015,6 +17032,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\examples.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\overlay.css",
+      "SourceId": "GUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\",
+      "BasePath": "_content/GUI",
+      "RelativePath": "css/overlay.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\overlay.css"
     },
     {
       "Identity": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\site.css",

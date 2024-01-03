@@ -1,0 +1,51 @@
+
+
+28-12-2023 17:03:28;50002;This is test-Test Name 1-log;NOK
+28-12-2023 17:03:32;50002;This is test-Test Name 2-log;NOK
+28-12-2023 17:03:36;50002;This is test-Test Name 3-log;OK
+28-12-2023 17:03:41;50002;This is test-Test Name 4-log;OK
+
+
+29-12-2023 12:25:33;50002;This is test-Test Name 1-log;OK
+29-12-2023 12:25:37;50002;This is test-Test Name 2-log;OK
+29-12-2023 12:25:41;50002;This is test-Test Name 3-log;OK
+29-12-2023 12:25:45;50002;This is test-Test Name 4-log;OK
+
+
+29-12-2023 12:28:29;50002;This is test-Test Name 1-log;OK
+
+
+29-12-2023 12:28:37;50002;This is test-Test Name 2-log;NOK
+
+
+29-12-2023 12:31:20;50002;This is test-Test Name 2-log;OK
+
+
+29-12-2023 14:02:39;50002;This is test-Test Name 1-log;NOK
+29-12-2023 14:02:51;50002;This is test-Test Name 2-log;OK
+29-12-2023 14:03:04;50002;This is test-Test Name 3-log;OK
+29-12-2023 14:03:13;50002;This is test-Test Name 4-log;OK
+
+
+29-12-2023 14:05:11;50002;This is test-Test Name 1-log;NOK
+29-12-2023 14:05:16;50002;This is test-Test Name 2-log;NOK
+29-12-2023 14:05:22;50002;This is test-Test Name 3-log;NOK
+29-12-2023 14:05:27;50002;This is test-Test Name 4-log;NOK
+
+
+29-12-2023 14:07:02;50002;This is test-Test Name 1-log;OK
+29-12-2023 14:07:08;50002;This is test-Test Name 2-log;OK
+29-12-2023 14:07:13;50002;This is test-Test Name 3-log;NOK
+29-12-2023 14:07:18;50002;This is test-Test Name 4-log;OK
+
+
+29-12-2023 14:16:47;50002;This is test-Test Name 1-log;OK
+29-12-2023 14:16:51;50002;This is test-Test Name 2-log;OK
+29-12-2023 14:16:55;50002;This is test-Test Name 3-log;NOK
+29-12-2023 14:16:59;50002;This is test-Test Name 4-log;OK
+
+
+30-12-2023 14:48:44;50002;This is test-Test Name 1-log;OK
+30-12-2023 14:48:48;50002;This is test-Test Name 2-log;NOK
+30-12-2023 14:48:52;50002;This is test-Test Name 3-log;OK
+30-12-2023 14:48:56;50002;This is test-Test Name 4-log;OK

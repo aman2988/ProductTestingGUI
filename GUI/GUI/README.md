@@ -38,3 +38,73 @@ Click Ok
 
 Click on GUI, and on the right side, you can see the browse option, so click on that and open the application inside the browser
 
+### Notes
+1. The test logic here is dummy logic as of now, which gives success or failed status randomly.
+2. For Individual test, click on checkbox and Test button will get enabled and that can be clicked to start testing.
+3. Status of the individual test will be shown in Results column as Started, Success or Failed.
+4. Logs will be printed in left textarea panel, with latest logs at the top.
+5. SN field is saved as empty value.
+6. Printer details like IP address and Port is getting saved in the database.
+7. Test for a product are getting saved in a separate table Called Tests.
+8. A folder named Logs needs to be created inside wwwroot folder.
+
+### Backup and Restore MySQL Database
+Backup script
+mysqldump -u root -p products > C:\MySql\backup\prouctd-3jan.sql
+
+Restore Command
+
+mysql> drop database products;
+mysql> create database products;
+
+mysql -u root -p products < C:\MySql\backup\prouctd-3jan.sql
+
+
+### Sql Commands
+
+## Insert Commands
+
+INSERT INTO Devices (ProductName, PN, Available, LabelType) VALUES ('Product1', '50001', 1, 1);
+INSERT INTO Devices (ProductName, PN, Available, LabelType) VALUES ('Product2', '50002', 1, 2);
+INSERT INTO Devices (ProductName, PN, Available, LabelType) VALUES ('Product3', '50003', 1, 3);
+INSERT INTO Devices (ProductName, PN, Available, LabelType) VALUES ('Product4', '50004', 1, 4);
+
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 1', 5);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 2', 5);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 3', 5);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 4', 5);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 5', 5);
+
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 1', 6);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 2', 6);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 3', 6);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 4', 6);
+
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 1', 7);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 2', 7);
+
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 1', 8);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 2', 8);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 3', 8);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 4', 8);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 5', 8);
+INSERT INTO Tests (TestName, ProductId) VALUES ('Test Name 6', 8);
+
+INSERT INTO Labels (LabelType, Data) VALUES ('Label1', 'Long data1');
+INSERT INTO Labels (LabelType, Data) VALUES ('Label2', 'Long data2');
+INSERT INTO Labels (LabelType, Data) VALUES ('Label3', 'Long data3');
+INSERT INTO Labels (LabelType, Data) VALUES ('Label4', 'Long data4');
+
+## Select Commands:
+
+SELECT * FROM Devices
+SELECT * FROM Tests
+SELECT * FROM Labels
+
+## Delete Commands:
+
+DELETE FROM Devices WHERE Id = 1
+DELETE FROM Tests WHERE Id = 1
+DELETE FROM Labels WHERE Id = 1
+
+

@@ -1,0 +1,14 @@
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\bin\Release\net6.0\GUI.Data.deps.json
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\bin\Release\net6.0\GUI.Data.runtimeconfig.json
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\bin\Release\net6.0\GUI.Data.dll
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\bin\Release\net6.0\GUI.Data.pdb
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.csproj.AssemblyReference.cache
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.AssemblyInfoInputs.cache
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.AssemblyInfo.cs
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.csproj.CoreCompileInputs.cache
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.dll
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\refint\GUI.Data.dll
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.pdb
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\GUI.Data.genruntimeconfig.cache
+C:\Users\khann\source\repos\Michael\GUI\GUI.Data\obj\Release\net6.0\ref\GUI.Data.dll

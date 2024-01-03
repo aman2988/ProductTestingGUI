@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\gui</_PublishTargetUrl>
-    <History>True|2023-12-23T13:13:07.6681944Z;True|2023-12-23T17:41:46.2086400+05:30;</History>
+    <History>True|2024-01-03T09:58:40.5178346Z;True|2024-01-03T15:23:58.7092404+05:30;True|2023-12-23T19:21:23.4821694+05:30;True|2023-12-23T18:43:07.6681944+05:30;True|2023-12-23T17:41:46.2086400+05:30;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

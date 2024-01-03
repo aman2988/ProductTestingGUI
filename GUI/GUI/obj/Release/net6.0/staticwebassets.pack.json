@@ -3977,6 +3977,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\full.jpg"
     },
     {
+      "Id": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\borderless.scss",
+      "PackagePath": "staticwebassets\\css\\borderless.scss"
+    },
+    {
       "Id": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\error.css",
       "PackagePath": "staticwebassets\\css\\error.css"
     },
@@ -3995,6 +3999,10 @@
     {
       "Id": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\examples.min.css.map",
       "PackagePath": "staticwebassets\\css\\examples.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\overlay.css",
+      "PackagePath": "staticwebassets\\css\\overlay.css"
     },
     {
       "Id": "C:\\Users\\khann\\source\\repos\\Michael\\GUI\\GUI\\wwwroot\\css\\site.css",
